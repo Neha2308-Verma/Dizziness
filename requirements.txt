@@ -1,7 +1,12 @@
+# Web Framework
 Flask==3.0.0
 flask-cors==4.0.0
-opencv-python-headless==4.9.0.80
-numpy>=1.26.0
+
+# Computer Vision and Image Processing
+opencv-python-headless>=4.10.0
+numpy>=1.24.0
 Pillow>=10.0.0
+
+# Build tools (required for Python 3.13)
 setuptools>=69.0.0
 wheel>=0.42.0
